@@ -1,0 +1,18 @@
+C:\Users\Matthew\Desktop\Computer Science\NotePad\NotePad\bin\Debug\NotePad.exe.config
+C:\Users\Matthew\Desktop\Computer Science\NotePad\NotePad\obj\Debug\NotePad.csprojResolveAssemblyReference.cache
+C:\Users\Matthew\Desktop\Computer Science\NotePad\NotePad\obj\Debug\NotePad.Properties.Resources.resources
+C:\Users\Matthew\Desktop\Computer Science\NotePad\NotePad\obj\Debug\NotePad.csproj.GenerateResource.Cache
+C:\Users\Matthew\Desktop\Computer Science\NotePad\NotePad\bin\Debug\NotePad.exe
+C:\Users\Matthew\Desktop\Computer Science\NotePad\NotePad\bin\Debug\NotePad.pdb
+C:\Users\Matthew\Desktop\Computer Science\NotePad\NotePad\obj\Debug\NotePad.exe
+C:\Users\Matthew\Desktop\Computer Science\NotePad\NotePad\obj\Debug\NotePad.pdb
+C:\Users\Matthew\Desktop\Computer Science\NotePad\NotePad\obj\Debug\NotePad.Form1.resources
+F:\NotePad\NotePad\bin\Debug\NotePad.exe.config
+F:\NotePad\NotePad\obj\Debug\NotePad.exe
+F:\NotePad\NotePad\obj\Debug\NotePad.pdb
+F:\NotePad\NotePad\bin\Debug\NotePad.exe
+F:\NotePad\NotePad\bin\Debug\NotePad.pdb
+F:\NotePad\NotePad\obj\Debug\NotePad.csprojResolveAssemblyReference.cache
+F:\NotePad\NotePad\obj\Debug\NotePad.Form1.resources
+F:\NotePad\NotePad\obj\Debug\NotePad.Properties.Resources.resources
+F:\NotePad\NotePad\obj\Debug\NotePad.csproj.GenerateResource.Cache
